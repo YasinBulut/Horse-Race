@@ -1,0 +1,10 @@
+D:\Eğitimlerim\Youtube -Murat Yücedağ\100 Ders 1 ve 2 Projeler\AtYarışıOyunu\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.exe.config
+D:\Eğitimlerim\Youtube -Murat Yücedağ\100 Ders 1 ve 2 Projeler\AtYarışıOyunu\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.exe
+D:\Eğitimlerim\Youtube -Murat Yücedağ\100 Ders 1 ve 2 Projeler\AtYarışıOyunu\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.pdb
+D:\Eğitimlerim\Youtube -Murat Yücedağ\100 Ders 1 ve 2 Projeler\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.csprojAssemblyReference.cache
+D:\Eğitimlerim\Youtube -Murat Yücedağ\100 Ders 1 ve 2 Projeler\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.Form1.resources
+D:\Eğitimlerim\Youtube -Murat Yücedağ\100 Ders 1 ve 2 Projeler\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.Properties.Resources.resources
+D:\Eğitimlerim\Youtube -Murat Yücedağ\100 Ders 1 ve 2 Projeler\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.csproj.GenerateResource.cache
+D:\Eğitimlerim\Youtube -Murat Yücedağ\100 Ders 1 ve 2 Projeler\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\Youtube -Murat Yücedağ\100 Ders 1 ve 2 Projeler\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.exe
+D:\Eğitimlerim\Youtube -Murat Yücedağ\100 Ders 1 ve 2 Projeler\AtYarışıOyunu\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.pdb
